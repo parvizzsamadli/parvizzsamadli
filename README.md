@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parvizzsamadli
+- 👋 Hi, I’m @Parviz
 - 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning Javascript, React, Node
 - 💞️ I’m looking to collaborate on Front-end repositories
